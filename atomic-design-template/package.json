@@ -1,0 +1,8 @@
+{
+  "name": "atomic-design-template",
+  "version": "1.0.0",
+  "description": "Template Atomic Design + Dependencies",
+  "main": "index.js",
+  "author": "TurriDev",
+  "license": "MIT"
+}
